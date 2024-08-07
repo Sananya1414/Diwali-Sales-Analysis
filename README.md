@@ -63,10 +63,6 @@ diwali_sales_analysis/
 
 2. Run the Python scripts in `src/` for data preprocessing, visualization, and modeling. Modify the scripts as needed to fit specific analysis requirements.
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 This README file provides a comprehensive overview of the project, outlines the technologies used, and guides users on how to set up and use the project.
